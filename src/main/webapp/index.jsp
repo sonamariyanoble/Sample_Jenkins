@@ -9,4 +9,5 @@
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
+<img src="F:\nature\4.jpg"/img>
 </body>
